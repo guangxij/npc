@@ -5,7 +5,7 @@ public class navigate : MonoBehaviour
 {
 	Transform target;               // Reference to the player's position.
 	NavMeshAgent nav;               // Reference to the nav mesh agent.
-	public float Time = 50f;            // How long between each spawn.
+	public float Time = 3f;            // How long between each spawn.
 	
 	
 	
